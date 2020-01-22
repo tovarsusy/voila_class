@@ -1,0 +1,8 @@
+ipywidgets
+numpy
+pandas
+bqplot
+matplotlib
+IPython
+warnings
+ipympl
